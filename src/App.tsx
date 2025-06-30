@@ -8,7 +8,7 @@ const { Content } = Layout
 
 function App() {
   return (
-    <Router>
+    <Router basename="/meme-quiz/">
       <Layout style={{ minHeight: '100vh', backgroundColor: '#f5f5f5' }}>
         <Content
           style={{
