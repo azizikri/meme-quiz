@@ -137,7 +137,7 @@ const Quiz = () => {
                             maxHeight: '400px',
                             borderRadius: '8px'
                         }}
-                        fallback="https://placehold.co/600x400"
+                        fallback="https://placehold.co/600x400?text=Image+Not+Available"
                     />
                 </div>
 
