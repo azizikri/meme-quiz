@@ -25,7 +25,7 @@ const Quiz = () => {
     useEffect(() => {
         const fetchQuizData = async () => {
             try {
-                const response = await fetch('/quizData.json')
+                const response = await fetch('./quizData.json')
                 const data: QuizQuestion[] = await response.json()
                 setQuestions(data)
                 setLoading(false)
