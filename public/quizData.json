@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/Vib5uRP.jpeg",
+        "question": "What is the name of this meme, which often features the song 'Astronomia'?",
+        "options": [
+            "Coffin Dance",
+            "Dancing Pallbearers",
+            "Astronomia Meme",
+            "All of the above"
+        ],
+        "correctAnswer": "All of the above"
+    },
+    {
+        "id": 2,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/lTAIuit.jpeg",
+        "question": "This stock photo meme format is officially titled 'Disloyal man with his girlfriend looking at another girl', but is more commonly known as:",
+        "options": [
+            "Jealous Girlfriend",
+            "Distracted Boyfriend",
+            "Man Looking at Other Woman",
+            "Cheating Man"
+        ],
+        "correctAnswer": "Distracted Boyfriend"
+    },
+    {
+        "id": 3,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/5kxJ5j4.png",
+        "question": "This two-panel meme from a music video is used to show a preference for one thing over another. Which artist is featured?",
+        "options": [
+            "Kanye West",
+            "The Weeknd",
+            "Chris Brown",
+            "Drake"
+        ],
+        "correctAnswer": "Drake"
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/KSinUOk.jpeg",
+        "question": "This meme juxtaposes a screencap from 'The Real Housewives of Beverly Hills' with a picture of what cat?",
+        "options": [
+            "Grumpy Cat",
+            "Smudge the Cat",
+            "Lil Bub",
+            "Nyan Cat"
+        ],
+        "correctAnswer": "Smudge the Cat"
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "mediaUrl": "https://media.tenor.com/5ety3Lx3QccAAAAe/its-fine-dog-fine.png",
+        "question": "The 'This is Fine' meme, which depicts acceptance in the face of chaos, features what kind of animal?",
+        "options": [
+            "A dog in a burning room",
+            "A cat in a hat",
+            "A frog on a unicycle",
+            "A bird wearing shoes"
+        ],
+        "correctAnswer": "A dog in a burning room"
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/S1L6gve.jpeg",
+        "question": "This meme format, used to compare a superior past version with a weaker present version, features Doge and which other dog?",
+        "options": [
+            "Doge",
+            "Walter",
+            "Cheems",
+            "Snoopy"
+        ],
+        "correctAnswer": "Cheems"
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/9n9gE2P.jpeg",
+        "question": "This meme features political commentator Steven Crowder at a table with a sign that reads:",
+        "options": [
+            "Prove Me Wrong",
+            "Change My Mind",
+            "Debate Me",
+            "Tell Me Why I'm Wrong"
+        ],
+        "correctAnswer": "Change My Mind"
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/e2b6Mpr.jpeg",
+        "question": "These three images of an actor looking forlorn are often used to represent waiting or sadness. Who is the actor pictured?",
+        "options": [
+            "Benicio del Toro",
+            "Javier Bardem",
+            "Wagner Moura",
+            "Pedro Pascal"
+        ],
+        "correctAnswer": "Wagner Moura"
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/sBef2Yy.jpeg",
+        "question": "What is this multi-panel meme, used to show escalating levels of intelligence or enlightenment, called?",
+        "options": [
+            "Galaxy Brain",
+            "Mind Blown",
+            "Expanding Brain",
+            "Ascension"
+        ],
+        "correctAnswer": "Expanding Brain"
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "mediaUrl": "https://i.imgur.com/so2pdAR.jpeg",
+        "question": "This reaction image is used to express shock when an obvious outcome occurs. Which Pokémon is featured?",
+        "options": [
+            "Pikachu",
+            "Jigglypuff",
+            "Eevee",
+            "Charmander"
+        ],
+        "correctAnswer": "Pikachu"
+    }
+]
