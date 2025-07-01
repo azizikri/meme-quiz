@@ -30,7 +30,7 @@ const Home = () => {
             >
                 <Space direction="vertical" size="large" style={{ width: '100%' }}>
                     <Title level={2} style={{ color: '#1890ff', marginBottom: 0 }}>
-                        MemeQuiz - Tebak Meme Seru! 🎉
+                        Joquiz 🤵🏻‍♂️
                     </Title>
 
                     <Form
